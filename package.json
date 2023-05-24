@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "element-plus": "^2.3.4",
-    "postcss-px2rem": "^0.3.0",
     "vue": "^3.2.47",
     "vue-router": "^4.2.0",
     "vuex": "^4.1.0"
